@@ -1,0 +1,23 @@
+{
+  "name": "hyper-ibmcloud-theme",
+  "version": "1.0.0",
+  "description": "Hyper theme inspired by IBM Cloud branding",
+  "main": "index.js",
+  "scripts": {},
+  "keywords": [
+    "hyper",
+    "hyper-theme",
+    "ibmcloud",
+    "ibm"
+  ],
+  "author": "van_staub@us.ibm.com",
+  "repository" : {
+    "type" : "git",
+    "url" : "https://github.com/van-ibm/hyper-ibmcloud-theme.git"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "hex-rgb": "^3.0.0",
+    "ibm-northstar-colors": "^1.0.0"
+  }
+}
