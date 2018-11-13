@@ -6,7 +6,13 @@
 
 ## Install
 
-hyper install hyper-ibmcloud-theme
+To install, edit `~/.hyper.js` and add **hyper-ibmcloud-theme** to the `plugins` list.
+
+```javascript
+plugins: [
+  "hyper-ibmcloud-theme"
+],
+```
 
 ## License
 
